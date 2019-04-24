@@ -6,7 +6,15 @@ head(lang="es")
         body{
             background: antiquewhite;
         }
+
 body
+    -let hola='hola1'
+        p hola
+        -for (let i=0;i<10;i++)
+            p=i
+        each letra in hola
+            p=letra.toUpperCase()
+
 
     script.
         alert('hola mundo')
