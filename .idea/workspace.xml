@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57baaf3c-fced-4f14-ae36-4ab7dbc0e9dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Sintaxis_Pug/p2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxis_Pug/p2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pug/prueba.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sintaxis_Pug/p2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/Sintaxis_Pug/p2.pug" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,28 +20,23 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p2.pug">
+            <entry file="file://$PROJECT_DIR$/pug/prueba.pug">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="301">
-                  <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+                <state relative-caret-position="120">
+                  <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p2.html">
-              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p2.html">
+            <entry file="file://$PROJECT_DIR$/template/prueba.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="462">
-                  <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+                <state relative-caret-position="192">
+                  <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -66,7 +62,9 @@
       <list>
         <option value="$PROJECT_DIR$/Sintaxis_Pug/p1.pug" />
         <option value="$PROJECT_DIR$/Sintaxis_Pug/a.html" />
+        <option value="$PROJECT_DIR$/pug/prueba1.pug" />
         <option value="$PROJECT_DIR$/Sintaxis_Pug/p2.pug" />
+        <option value="$PROJECT_DIR$/pug/prueba.pug" />
       </list>
     </option>
   </component>
@@ -98,7 +96,17 @@
             <path>
               <item name="Curso-de-Pug-HTML-" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-de-Pug-HTML-" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso-de-Pug-HTML-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso-de-Pug-HTML-" type="462c0819:PsiDirectoryNode" />
               <item name="Sintaxis_Pug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso-de-Pug-HTML-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso-de-Pug-HTML-" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,7 +125,7 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,7 +151,9 @@
       <updated>1553567224334</updated>
       <workItem from="1553567228231" duration="961000" />
       <workItem from="1553568927170" duration="1085000" />
-      <workItem from="1556097881930" duration="2983000" />
+      <workItem from="1556097881930" duration="3040000" />
+      <workItem from="1557668506551" duration="1295000" />
+      <workItem from="1557669808507" duration="1296000" />
     </task>
     <task id="LOCAL-00001" summary="empezando pug">
       <created>1553569998747</created>
@@ -152,17 +162,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553569998747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nuevos m,etodos en p2">
+      <created>1556104250744</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556104250744</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5029000" />
+    <option name="totallyTimeSpent" value="7677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1688988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15773809" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -173,7 +190,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32871974" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32871974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -186,7 +203,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="empezando pug" />
-    <option name="LAST_COMMIT_MESSAGE" value="empezando pug" />
+    <MESSAGE value="Nuevos m,etodos en p2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nuevos m,etodos en p2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p1.html">
@@ -200,15 +218,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p2.pug">
+    <entry file="file://$PROJECT_DIR$/tmp/prueba1.html" />
+    <entry file="file://$PROJECT_DIR$/pug/prueba1.pug" />
+    <entry file="file://$PROJECT_DIR$/template/p2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="-333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sintaxis_Pug/p2.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/prueba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/prueba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pug/prueba.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19633508" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
