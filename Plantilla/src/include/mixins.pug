@@ -1,0 +1,10 @@
+mixin music(musicName,className, ...items)
+    div(class=`${className}`)
+        h1=`${musicName.charAt(0).toUpperCase()}${musicName.substr(1,musicName.length)}`
+        ul
+            each item in items
+                li=item
+        if block
+            block
+        else
+            p No hay mas

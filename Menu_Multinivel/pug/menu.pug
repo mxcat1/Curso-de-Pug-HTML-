@@ -1,0 +1,44 @@
+doctype html
+head(lang="es")
+    meta(charset="UTF-8")
+    title
+body
+    -
+        let menu=[
+            {
+            "title": "Home",
+            "url": "home.html",
+            "child": []
+            },
+            {
+            "title": "Services",
+            "url": "home.html",
+            "child": [
+                    {
+                    "title": "SEO",
+                    "url": "seo.html",
+                    "child": []
+                    },
+                    {
+                    "title": "Wordpress",
+                    "url": "wordpress.html",
+                    "child": []
+                    }
+                ]
+            },
+            {
+            "title": "Contact",
+            "url": "contact.html",
+            "child": []
+            }
+        ]
+    nav
+        ul
+            each items in menu
+                li
+                    a(href=items.url)=`${items.title}`
+                    if items.child.length > 0
+                        ul
+                            each subitems in items.child
+                                li
+                                    a(href=subitems.url)=`${subitems.title}`

@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "title": "Home",
+      "url": "home.html",
+      "child": []
+    },
+    {
+      "title": "Services",
+      "url": "home.html",
+      "child": [
+        {
+          "title": "SEO",
+          "url": "seo.html",
+          "child": []
+        },
+        {
+          "title": "Wordpress",
+          "url": "wordpress.html",
+          "child": []
+        }
+      ]
+    },
+    {
+      "title": "Contact",
+      "url": "contact.html",
+      "child": []
+    }
+  ]
+}
